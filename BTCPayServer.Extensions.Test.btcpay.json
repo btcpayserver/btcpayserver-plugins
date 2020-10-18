@@ -1,1 +1,1 @@
-{"Identifier":"BTCPayServer.Extensions.Test","Name":"Test Plugin!","Version":{"Major":1,"Minor":0,"Build":0,"Revision":0,"MajorRevision":0,"MinorRevision":0},"Description":"This is a description of the loaded test extension!","SystemExtension":false,"Dependencies":[]}
+{"Identifier":"BTCPayServer.Extensions.Test","Name":"Test Plugin!","Version":"1.0.0.0","Description":"This is a description of the loaded test extension!","SystemExtension":false,"Dependencies":[]}
