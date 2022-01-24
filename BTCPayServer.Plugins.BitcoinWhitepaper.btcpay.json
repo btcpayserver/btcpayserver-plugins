@@ -1,1 +1,1 @@
-{"Identifier":"BTCPayServer.Plugins.BitcoinWhitepaper","Name":"Bitcoin Whitepaper","Version":"1.0.0.0","Description":"This makes the Bitcoin whitepaper available on your BTCPay Server.","SystemPlugin":false,"Dependencies":[{"Identifier":"BTCPayServer","Condition":"\u003E=1.2.2.0"}]}
+{"Identifier":"BTCPayServer.Plugins.BitcoinWhitepaper","Name":"Bitcoin Whitepaper","Version":"1.0.1.0","Description":"This makes the Bitcoin whitepaper available on your BTCPay Server.","SystemPlugin":false,"Dependencies":[{"Identifier":"BTCPayServer","Condition":"\u003E=1.4.0.0"}]}
