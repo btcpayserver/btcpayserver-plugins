@@ -1,0 +1,1 @@
+{"Identifier":"BTCPayServer.Plugins.RockstarStylist","Name":"Rockstar hairstylist","Version":"1.0.2.0","Description":"Allows your checkout to get a rockstar approved makeover","SystemPlugin":false,"Dependencies":[{"Identifier":"BTCPayServer","Condition":"\u003E=1.4.6.0"}]}
