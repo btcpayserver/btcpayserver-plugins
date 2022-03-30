@@ -1,0 +1,1 @@
+{"Identifier":"BTCPayServer.Plugins.AOPP","Name":"AOPP","Version":"1.0.0.0","Description":"Allows you to support the AOPP protocol in invoices to allow customers to bypass stupid KYC rules.","SystemPlugin":false,"Dependencies":[{"Identifier":"BTCPayServer","Condition":"\u003E1.4.7.0"}]}
