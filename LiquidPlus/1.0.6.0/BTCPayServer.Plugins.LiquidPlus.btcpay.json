@@ -1,0 +1,1 @@
+{"Identifier":"BTCPayServer.Plugins.LiquidPlus","Name":"Liquid\u002B","Version":"1.0.6.0","Description":"Enhanced support for the liquid network.","SystemPlugin":false,"Dependencies":[{"Identifier":"BTCPayServer","Condition":"\u003E=1.4.9.0"}]}
