@@ -1,0 +1,1 @@
+{"Identifier":"BTCPayServer.Plugins.LNbank","Name":"LNbank","Version":"1.2.3.0","Description":"Use the BTCPay Server Lightning node in custodial mode and give users access via custodial layer 3 wallets.","SystemPlugin":false,"Dependencies":[{"Identifier":"BTCPayServer","Condition":"\u003E=1.6.0.0"}]}
