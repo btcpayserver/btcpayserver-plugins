@@ -1,0 +1,1 @@
+{"Identifier":"BTCPayServer.Plugins.NFC","Name":"LNURL NFC Support","Version":"1.0.5.0","Description":"Allows you to support contactless card payments over NFC and LNURL Withdraw!","SystemPlugin":false,"Dependencies":[{"Identifier":"BTCPayServer","Condition":"\u003E=1.6.0.0"}]}
