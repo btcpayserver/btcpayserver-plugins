@@ -1,0 +1,1 @@
+{"Identifier":"BTCPayServer.Plugins.PodServer","Name":"PodServer","Version":"0.1.1.0","Description":"Self-host your podcast and start Podcasting 2.0 like a pro.","SystemPlugin":false,"Dependencies":[{"Identifier":"BTCPayServer","Condition":"\u003E=1.6.11.0"}]}
